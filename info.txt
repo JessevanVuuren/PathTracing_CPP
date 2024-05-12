@@ -1,0 +1,4 @@
+https://raytracing.github.io/books/RayTracingInOneWeekend.html
+https://github.com/nothings/stb
+
+cmake --build build && .\build\Debug\inOneWeekend.exe > img/output.ppm
